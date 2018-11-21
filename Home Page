@@ -30,3 +30,48 @@ function check(form)/*function to check userid & password*/
 </script>
 </body>
 </html>
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>5th Harmony</title>
+  <link rel = "stylesheet" type = "text/css" href = "style.css" />
+</head>
+<body>
+	<html>
+  <h1>5th Harmony</h1>
+
+	<h2>Introduction</h2>
+ <p>5th Harmony was an American girl group composed of 5 girls named Ally Brooke, Normani Kordei, Dinah Jane, Lauren Jauregui and Camila Cabello. They all met on the TV show "X Factor" where they signed a record deal with Simon Cowell. Since then, they have put out mutliple albums, gone on tour numerous times and created a fan base all over the world.<p>	  
+	<img src="https://github.com/suhaimran/suhaimran.github.io/blob/master/Screen Shot 2018-11-21 at 11.24.49 AM.png">
+		
+	<table align="center">
+		<tr>
+			<th><h3>Albums</h3></th>
+			<th><h3>Cover</h3></th>
+			<th><h3>Description</h3></th>
+		</tr>
+		<tr>
+		<td><a href = "Reflection"> Reflection </a></td>
+		<td><center><a href = "Reflection"><img src="Screen Shot 2018-11-21 at 11.38.14 AM.png" alt="Reflection cover" width="100" height="100"></center></td>
+		<td> Reflection was 5th Harmony's first album and included collaborations with big starts and producers including Tyga and Dr. Luke. It was pretty sucessful as it entered the Billboard 200 at #5 and even allowed them to go on tour with it.</td>
+  </tr>
+	 <tr>
+			<td><a href="Seven Twenty-Seven"> Seven Twenty-Seven </a></td>
+		<td><a href = "Seven Twenty-Seven"><img src="Screen Shot 2018-11-21 at 11.52.30 AM.png" alt="Seven Twenty-Seven cover" width="100" height="100"></center></td>
+		<td>7/27 is their second studio album and it features the American rappers Ty Dolla Sign, Fetty Wap and Missy Elliot. It debuted #4 on the US Billboard 200 and all their singles placed as well. </td>
+	 </tr>
+		<tr>
+			<td><a href="Fifth Harmony" Fifth Harmony </a></td>
+		<td><a href = "Fifth Harmony"><img src="Screen Shot 2018-11-21 at 12.16.26 PM.png" alt="Fifth Harmony cover" width="100" height="100"></center></td>
+		<td>Fifth Harmony is their self-titled third studio album which included features by Gucci Mane and producers like Ammo and Srillex. It also charted in the top tens of many countries including Canada, New Zealand and the United Kingdom.</td>
+		</tr>
+		
+		</table>
+		
+	</body>
+	</html>
