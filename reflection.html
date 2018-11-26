@@ -27,6 +27,21 @@
 
      </ul>
      </center></p>
-   
+   <p>Select your favorite album:</p>
+<form action = "/survey.html">
+  <input type="radio" name="album" onclick="myFunction(this.value)" value="Currency">Currency<br>
+  <input type="radio" name="album" onclick="myFunction(this.value)" value="Rich Shooters">Rich Shooters<br>
+  <input type="radio" name="album" onclick="myFunction(this.value)" value="YRN 2">YRN 2<br>
+
+  Your favorite album is: <input type="text" id="result">
+  <input type="submit" value="Submit form">
+</form>
+
+<script>
+function myFunction(browser) {
+      document.getElementById("result").value = browser;
+}
+</script>
   </body>
+  
 </html>
